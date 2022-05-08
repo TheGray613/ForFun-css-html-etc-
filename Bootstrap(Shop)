@@ -1,0 +1,84 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Shope</title>
+</head>
+<body>
+
+
+    <div class="row" style=" background-color: rgb(39, 39, 39);">
+        <p class="col-12" style="text-align: center; padding: 50px; color: white;">به سایت محدثه مددی خوش آمدید</p>
+    </div>
+
+    <div class="row" style="text-align: center; margin-bottom: 5px;">
+        <div class="col-md-2  border border-dark">
+            <p style="color: blue; border: 10px; border-color: black;">تماس با ما</p>
+        </div>
+
+        <div class="col-md-2 border border-dark">
+            <p style="color: blue;">اخبار</p>
+        </div> 
+
+        <div class="col-md-4 border border-dark">
+            <p style="color: blue;">فروشگاه</p>
+        </div>
+
+        <div class="col-md-2 border border-dark">
+            <p style="color: blue;">مقالات</p>
+        </div>
+
+        <div class="col-md-2 border border-dark">
+            <p style="color: blue;">صفحه اصلی</p>
+        </div>
+    </div>
+
+    
+    <div class="row border border-dark" style="text-align: center;">
+        <div class="col-md-2 border border-dark">
+            <p style="color: red;">اخبار جدید</p>
+        </div>
+
+        <div class="col-md-8 border border-dark">
+            <p style="color: red;">محصولات جدید</p>
+        </div>
+
+        <div class="col-md-2 border border-dark">
+            <p style="color: red;">لینک های کاربردی</p>
+        </div>
+    </div>
+
+
+    <div class="row border border-dark" style="margin-top: 5px;">
+        <div class="col-md-2 border-right border-dark">
+            <ol style="text-align: center; padding-top : 100px;">
+                <li>خبر</li>
+                <li>خبر</li>
+                <li>خبر</li>
+            </ol>
+        </div>
+        
+        <div class="col-md-8 border-right border-dark" style="text-align: center;">
+            <img src="download (1).jpg">
+            <br>
+            <br>
+            <img src="download.jpg">
+            <br>
+            <br>
+
+            <img src="download(2).jpg" width="300px">
+            </div>
+
+            <div class="col-md-2">
+                <ol style="text-align: center; padding-top : 100px;">
+                    <li>خبر</li>
+                    <li>خبر</li>
+                    <li>خبر</li>
+                </ol>
+            </div>
+
+        </div>
+</body>
+</html>
